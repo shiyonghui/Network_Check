@@ -2,4 +2,4 @@
 监控当前网络状态
 
 简单的Demo 可监控 2G 3G 4G 无线 等网络状态
-(http://github.com/shiyonghui/Network_Check/raw/master/images-folder/1.png)
+(http://github.com/shiyonghui/Network_Check/1.png)
